@@ -1,0 +1,117 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:book/rouge.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF803"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:book/vert.png",
+            "ascent": 8,
+            "height": 21,
+            "chars": ["\uF801"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/acgamed.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF04D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/gigachad.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF03D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/akreck.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF02D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/cible.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF05D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/logo_cmfr.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF06D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/ggwp_cs.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF07D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/joe_heart.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF08D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/rammus_ok.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF09D"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/pepe_ez.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF01E"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/star.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF02E"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/those_who_knows.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF03E"]
+        },
+        {
+            "type": "bitmap",
+            "color": "white",
+            "file": "minecraft:item/creeper_gif.png",
+            "ascent": 13,
+            "height": 113,
+            "chars": ["\uF04E"]
+        }
+
+    ]
+}

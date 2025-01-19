@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+
+    "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/graffitikore_akreck"},
+    {"predicate": {"custom_model_data":2}, "model": "item/graffitikore_gigachad"},
+    {"predicate": {"custom_model_data":3}, "model": "item/graffitikore_acgam"},
+    {"predicate": {"custom_model_data":4}, "model": "item/graffitikore_cible"},
+    {"predicate": {"custom_model_data":5}, "model": "item/graffitikore_cmfr"},
+    {"predicate": {"custom_model_data":6}, "model": "item/graffitikore_ggwp_cs"},
+    {"predicate": {"custom_model_data":7}, "model": "item/graffitikore_joe_heart"},
+    {"predicate": {"custom_model_data":8}, "model": "item/graffitikore_rammus_ok"},
+    {"predicate": {"custom_model_data":9}, "model": "item/graffitikore_pepe_ez"},
+    {"predicate": {"custom_model_data":10}, "model": "item/graffitikore_star"},
+    {"predicate": {"custom_model_data":11}, "model": "item/graffitikore_those_who_knows"},
+    {"predicate": {"custom_model_data":12}, "model": "item/graffitikore_creeper"}
+    
+
+    ]
+
+}
