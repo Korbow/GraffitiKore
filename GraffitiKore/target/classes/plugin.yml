@@ -1,0 +1,13 @@
+name: GraffitiKore
+version: 1
+main: fr.korbow.graffitikore.Main
+api-version: '1.21'
+commands:
+  book:
+    description: ajoute un graffiti Akerck
+    permission: akerck.admin
+    permission-message: §ctu ne peux pas faire cette commande !
+  graffiti:
+    description: ajoute un graffiti Akerck
+    permission: akerck.admin
+    permission-message: §ctu ne peux pas faire cette commande !
