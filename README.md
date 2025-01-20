@@ -2,3 +2,8 @@
 Works on a way to make graffitis in minecraft by using a plugin and a resource pack
 
 ![image](https://github.com/user-attachments/assets/82c99938-5273-433a-8faa-7e726a28f1bb)
+
+## <ins>  How does it work ?</ins>
+
+- The graffitis are CustomModelData of Carrot on a Stick, so with custom Model and customs texture; they are displayed on an invisible Item Frame.
+- The selection of the graffitis is made by a book, you can select a graffiti by clicking on a button displayed on the page of the book. Each page represent a different graffiti.
