@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="zMb7_mq-2X5Y6_FmzdMLCliCiD6g4whunUlJq_G8Ei8" />
+
 # GraffitiKore
 Works on a way to make graffitis in minecraft by using a plugin and a resource pack
 
